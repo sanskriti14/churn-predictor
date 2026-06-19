@@ -33,3 +33,8 @@ python src/train.py
 ```bash
 streamlit run src/app.py
 ```
+
+## Project Structure & Artifacts
+
+* **[Live Interactive Dashboard](https://your-app-name.streamlit.app):** Try out the model predictions in real-time.
+* **[Jupyter Training Notebook](./notebooks/churn_training.ipynb):** View the step-by-step data exploration, feature mapping, and Random Forest training process.
