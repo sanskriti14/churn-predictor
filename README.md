@@ -1,6 +1,6 @@
 # End-to-End Customer Churn Predictor
 
-🚀 **Live Interactive Demo:** [View the Live Dashboard Here](https://your-app-name.streamlit.app)
+🚀 **Live Interactive Demo:** [View the Live Dashboard Here](https://churn-predictor-001.streamlit.app/)
 
 An interactive Machine Learning system built to forecast customer subscription cancellations based on customer support ticket volume, billing pricing structures, and historical account longevity.
 
@@ -36,5 +36,5 @@ streamlit run src/app.py
 
 ## Project Structure & Artifacts
 
-* **[Live Interactive Dashboard](https://your-app-name.streamlit.app):** Try out the model predictions in real-time.
+* **[Live Interactive Dashboard](https://churn-predictor-001.streamlit.app/):** Try out the model predictions in real-time.
 * **[Jupyter Training Notebook](./notebooks/churn_training.ipynb):** View the step-by-step data exploration, feature mapping, and Random Forest training process.
